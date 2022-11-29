@@ -5,11 +5,11 @@ import { getAuth } from "firebase/auth";
 
 export const firebaseApp = firebase.initializeApp({
   apiKey: "AIzaSyAWTJh-vFEQhBMaP0UByEMfRpghspoe6nc",
-  authDomain: "chemconventions.firebaseapp.com",
-  projectId: "chemconventions",
+  authDomain: "",
+  projectId: "",
   storageBucket: "chemconventions.appspot.com",
-  messagingSenderId: "305985293500",
-  appId: "1:305985293500:web:f787ae7c66119a316a54b9",
+  messagingSenderId: "",
+  appId: "",
   measurementId: "G-D3C2TGEJQ5",
 });
 
