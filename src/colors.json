@@ -1,0 +1,17 @@
+{
+  "dark-60": "#242933",
+  "light-60": "#FDFFFC",
+
+  "dark-gray": "#2E3441ff",
+  "light-gray": "#f1f1f1",
+
+  "light-text": "#1b1f27",
+  "dark-text": "#d8dee9",
+
+
+  "--y-in-mn-blue": "#355070ff",
+  "--chinese-violet": "#6d597aff",
+  "--cinnamon-satin": "#b56576ff",
+  "--candy-pink": "#e56b6fff",
+  "--tumbleweed": "#eaac8bff"
+}
